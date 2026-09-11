@@ -1,0 +1,12 @@
+{
+  "name": "docker-practice-app",
+  "version": "1.0.0",
+  "description": "Practice Docker app - Error Scenario Fixed",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
